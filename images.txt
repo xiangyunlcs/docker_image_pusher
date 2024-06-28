@@ -5,6 +5,6 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
---platform=linux/amd64 nginx:stable-perl
+--platform=linux/amd64 eipwork/kuboard:v3.5.2.7
 
 
