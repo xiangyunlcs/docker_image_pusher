@@ -5,7 +5,8 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #--platform=linux/amd64 eipwork/kuboard:v3.5.2.7
---platform=linux/amd64 bjdgyc/anylink:latest
+#--platform=linux/amd64 bjdgyc/anylink:latest
+--platform=linux/amd64 openvpn/openvpn-as:2.14.0-b90cb316-Ubuntu22
 
 
 
