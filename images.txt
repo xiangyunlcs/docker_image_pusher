@@ -11,4 +11,5 @@
 #--platform=linux/amd64 dslim/slim:1.40.11
 #--platform=linux/amd64 sheepkiller/kafka-manager:latest
 #--platform=linux/amd64 portainer/portainer-ce:2.20.3-alpine
---platform=linux/amd64 portainer/portainer-ce:2.19.5
+#--platform=linux/amd64 portainer/portainer-ce:2.19.5
+--platform=linux/amd64 eipwork/kuboard:v3.5.2.7
