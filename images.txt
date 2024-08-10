@@ -10,5 +10,5 @@
 #--platform=linux/amd64 amazoncorretto:17-alpine3.19
 #--platform=linux/amd64 dslim/slim:1.40.11
 #--platform=linux/amd64 sheepkiller/kafka-manager:latest
---platform=linux/amd64 portainer/portainer-ce:2.20.3-alpine
-
+#--platform=linux/amd64 portainer/portainer-ce:2.20.3-alpine
+--platform=linux/amd64 portainer/portainer-ce:2.19.5
