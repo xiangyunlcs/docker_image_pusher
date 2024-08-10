@@ -12,4 +12,5 @@
 #--platform=linux/amd64 sheepkiller/kafka-manager:latest
 #--platform=linux/amd64 portainer/portainer-ce:2.20.3-alpine
 #--platform=linux/amd64 portainer/portainer-ce:2.19.5
---platform=linux/amd64 eipwork/kuboard:v3.5.2.7
+#--platform=linux/amd64 eipwork/kuboard:v3.5.2.7
+--platform=linux/amd64 rancher/k3s:v1.27.7-k3s1
