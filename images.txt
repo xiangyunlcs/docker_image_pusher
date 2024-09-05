@@ -18,6 +18,7 @@
 #--platform=linux/amd64 mouday/domain-admin:v1.6.45
 #--platform=linux/amd64 onlyoffice/documentserver:8.1
 #--platform=linux/amd64 shuiche/mind-map:v0.9.12
---platform=linux/amd64 excalidraw/excalidraw:latest
+#--platform=linux/amd64 excalidraw/excalidraw:latest
+--platform=linux/amd64 x1unix/go-playground:2.1
 
 
