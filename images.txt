@@ -21,6 +21,7 @@
 #--platform=linux/amd64 excalidraw/excalidraw:latest
 #--platform=linux/amd64 x1unix/go-playground:2.1
 #--platform=linux/amd64 wbsu2003/koodo-reader:latest
---platform=linux/amd64 vulhub/kkfileview:4.3.0
+#--platform=linux/amd64 vulhub/kkfileview:4.3.0
+--platform=linux/amd64 sonarqube:10.6.0-community
 
 
