@@ -24,6 +24,7 @@
 #--platform=linux/amd64 vulhub/kkfileview:4.3.0
 #--platform=linux/amd64 sonarqube:10.6.0-community
 #--platform=linux/amd64 frooodle/s-pdf:latest
---platform=linux/amd64 openresty/openresty:1.27.1.1-alpine
+#--platform=linux/amd64 openresty/openresty:1.27.1.1-alpine
+--platform=linux/amd64 jgraph/drawio:24.7.17
 
 
