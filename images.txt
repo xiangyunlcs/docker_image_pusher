@@ -28,5 +28,6 @@
 #--platform=linux/amd64 jgraph/drawio:24.7.17
 #--platform=linux/amd64 openzipkin/zipkin:3.4.3
 #--platform=linux/amd64 ghcr.io/headlamp-k8s/headlamp:v0.25.0
---platform=linux/amd64 oceanbase/odc:4.3.3
+#--platform=linux/amd64 oceanbase/odc:4.3.3
+--platform=linux/amd64 oceanbase/oceanbase-ce:4.2.1-lts
 
