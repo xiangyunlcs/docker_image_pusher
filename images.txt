@@ -32,4 +32,5 @@
 #--platform=linux/amd64 oceanbase/oceanbase-ce:4.2.1-lts
 #--platform=linux/amd64 dokploy/dokploy:latest
 #--platform=linux/amd64 chatgptweb/chatgpt-web:v2.19.0
---platform=linux/amd64 yidadaa/chatgpt-next-web:v2.15.8
+#--platform=linux/amd64 yidadaa/chatgpt-next-web:v2.15.8
+--platform=linux/amd64 ghcr.io/open-webui/open-webui:main
