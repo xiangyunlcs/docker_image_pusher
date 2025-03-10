@@ -43,4 +43,5 @@
 #--platform=linux/amd64 nginx:stable-alpine
 #--platform=linux/amd64 portainer/portainer-ce:sts
 #--platform=linux/amd64 ghcr.io/coder/coder:latest
---platform=linux/amd64 evildecay/etcdkeeper:v0.7.6
+#--platform=linux/amd64 evildecay/etcdkeeper:v0.7.6
+--platform=linux/amd64 mouday/domain-admin:v1.6.64
