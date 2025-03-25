@@ -48,4 +48,4 @@
 #--platform=linux/amd64 ghcr.io/xpipe-io/xpipe-webtop:latest
 #--platform=linux/amd64 docker.all-hands.dev/all-hands-ai/runtime:0.28-nikolaik
 #--platform=linux/amd64 docker.all-hands.dev/all-hands-ai/openhands:0.28
---platform=linux/amd64 ghcr.io/sparfenyuk/mcp-proxy:v0.3.2-alpine
+--platform=linux/amd64 ghcr.io/astral-sh/uv:python3.12-bookworm-slim
