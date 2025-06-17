@@ -49,4 +49,5 @@
 #--platform=linux/amd64 docker.all-hands.dev/all-hands-ai/runtime:0.28-nikolaik
 #--platform=linux/amd64 docker.all-hands.dev/all-hands-ai/openhands:0.28
 #--platform=linux/amd64 ghcr.io/astral-sh/uv:python3.12-bookworm-slim
---platform=linux/amd64 python:3.12-slim-bookworm
+#--platform=linux/amd64 python:3.12-slim-bookworm
+--platform=linux/amd64  adoptopenjdk/openjdk11
