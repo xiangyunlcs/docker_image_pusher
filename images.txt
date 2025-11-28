@@ -56,4 +56,5 @@
 #--platform=linux/amd64 openvpn/openvpn-as:3.0.1-84b60e70-Ubuntu24
 #--platform=linux/amd64 ghcr.io/headlamp-k8s/headlamp:v0.38.0
 #--platform=linux/amd64 eclipse/che-theia:7.5.1
---platform=linux/amd64 ghcr.io/eclipse-theia/theia-ide/theia-ide:1.66.200
+#--platform=linux/amd64 ghcr.io/eclipse-theia/theia-ide/theia-ide:1.66.200
+--platform=linux/amd64 ghcr.io/opensumi/opensumi-web:latest
