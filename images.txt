@@ -60,4 +60,5 @@
 #--platform=linux/amd64 ghcr.io/opensumi/opensumi-web:latest
 #--platform=linux/amd64 gitpod/openvscode-server:1.105.1
 #--platform=linux/amd64 ghcr.io/cmspam/incus-docker:nightly
---platform=linux/amd64 ghcr.io/liujuntao123/smart-draw:latest
+#--platform=linux/amd64 ghcr.io/liujuntao123/smart-draw:latest
+--platform=linux/amd64 b3log/siyuan:v3.5.2
